@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Duk Tab
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Clone of Momentum for fangirling/fanboying
 
 ## Available Scripts
 
